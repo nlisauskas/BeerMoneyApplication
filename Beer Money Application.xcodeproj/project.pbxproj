@@ -96,6 +96,8 @@
 				TargetAttributes = {
 					562A05601E7ECA2E00EA0F35 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = 3YPEW322D2;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -247,10 +249,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3YPEW322D2;
 				INFOPLIST_FILE = "Beer Money Application/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "EastMadisonTechnologyGroup.Beer-Money-Application";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -258,10 +262,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3YPEW322D2;
 				INFOPLIST_FILE = "Beer Money Application/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "EastMadisonTechnologyGroup.Beer-Money-Application";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -284,6 +290,7 @@
 				562A05751E7ECA2F00EA0F35 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
